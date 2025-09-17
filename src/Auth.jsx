@@ -18,7 +18,7 @@ function Auth() {
         <div>
           <input
             type="text"
-            placeholder="Enter username"
+            placeholder="hai..."
             value={input}
             onChange={(e) => setInput(e.target.value)}
           />
